@@ -1,0 +1,5 @@
+1;1;Chouin-Chouin
+2;2;Lutin Cordial
+3;1;Chimère
+4;1;Petite Pustule
+5;3;Dragonus

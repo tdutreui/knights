@@ -1,0 +1,2 @@
+vous arrivez dans un corridor, bordé par deux falaises des monstres arrivent les uns après les autres.;1;2
+vous arrivez au bout du corridor, une plaine herbeuse apparaît.;3;4;5
